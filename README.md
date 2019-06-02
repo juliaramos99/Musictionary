@@ -17,7 +17,8 @@ The files inside this repository are:
 * **badartistname.png** - Image displayed if an invalid musical artist name is found
 * **gson-2.2.4.jar** - Required to parse JSON code returned
 * **hamcrest-core-1.3.jar** - Required to run JUnit tests
-* **junit-4.12.jar** - Required to run JUnit tests 
+* **junit-4.12.jar** - Required to run JUnit tests
+* **README.md** - README file with details of this repository
 
 ## Getting Started
 
